@@ -13,6 +13,10 @@ class Artist
     @@all
   end
   
+  def self.songs
+    
+  end
+  
   
   
 end
